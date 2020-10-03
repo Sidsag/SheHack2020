@@ -6,11 +6,11 @@ buy of given farm production as in form of push and pull request, it would havin
 listed down:
 
 1. farmers can get predicted the market value of the crop that year and also can register through software
-or by sending a text message to a specific number before they invest and strat particular crop
-cultivation.it called predicted push request.
+(by sending a text message to a specific number,yet to implement) before they invest and strat particular crop
+cultivation.it called #predicted push request.
 
 2. different small industries and other organisation can set up their requirement by only posting the
-request as we do in any open-source platform, it will be called an initial pull request.
+request as we do in any open-source platform, it will be called an #initial pull request.
 
 3. After the harvesting of crops, the farmer can push their actual request and get some suggestion
 which uses some used algorithm to which market they can pull their crop along with an accurate
